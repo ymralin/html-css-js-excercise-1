@@ -1,0 +1,27 @@
+#addition {
+    display: flex;
+    align-items: center;
+    
+}
+
+#addition * {
+    margin: 0 5px;
+}
+
+#addition input {
+    width: 5em;
+}
+
+#substraction {
+    display: flex;
+    align-items: center;
+    
+}
+
+#substraction * {
+    margin: 0 5px;
+}
+
+#substraction input {
+    width: 5em;
+}
